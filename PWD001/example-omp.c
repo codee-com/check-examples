@@ -1,4 +1,5 @@
 // PWD001: Invalid OpenMP multithreading datascoping
+// https://www.appentra.com/knowledge/checks/pwd001
 
 void example(int** result, unsigned rows, unsigned cols) {
  int i, j;

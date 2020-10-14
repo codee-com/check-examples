@@ -1,4 +1,5 @@
 ! PWR001: Declare global variables as function parameters
+! https://www.appentra.com/knowledge/checks/pwr001
 
 PROGRAM example
     INTEGER :: global = 10

@@ -1,4 +1,5 @@
 ! PWR005: Disable default OpenMP scoping
+! https://www.appentra.com/knowledge/checks/pwr005
 
 SUBROUTINE example(result)
     IMPLICIT NONE

@@ -1,4 +1,5 @@
 ! PWR007: Disable implicit declaration of variables
+! https://www.appentra.com/knowledge/checks/pwr007
 
 SUBROUTINE example
     NUM1 = 7

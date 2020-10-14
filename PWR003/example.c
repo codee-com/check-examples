@@ -1,4 +1,5 @@
 // PWR003: Explicitly declare pure functions
+// https://www.appentra.com/knowledge/checks/pwr003
 
 #ifdef __GNUC__
   #define PURE __attribute__((const))
