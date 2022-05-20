@@ -1,12 +1,11 @@
 ! PWR001: Declare global variables as function parameters
 ! https://www.appentra.com/knowledge/checks/pwr001
+MODULE globalsMod
+REAL global_a
+END MODULE globalsMod
 
-PROGRAM example
-    INTEGER :: global = 10
-    CALL s
-CONTAINS
-    SUBROUTINE s
-        IMPLICIT NONE
-        global = 20    
-    END SUBROUTINE
-END PROGRAM
+REAL FUNCTION example()
+    USE globalsMod
+    IMPLICIT NONE
+    example = global_a
+END FUNCTION
