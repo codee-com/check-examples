@@ -1,4 +1,5 @@
-// PWR022: move invariant conditional out of the loop to facilitate vectorization
+// PWR022: move invariant conditional out of the loop to avoid redundant
+// computation and potentially enable vectorization
 // https://www.appentra.com/knowledge/checks/pwr022
 
 int example(int *A, int n) {
