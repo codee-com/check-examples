@@ -8,6 +8,6 @@ void loopInterchange(int n, double **A, double *B) {
     for (int j = 0; j < n; j++) {
       s += A[j][i];
     }
-    B[i] = s;
+    B[i] = 0.1 * s;
   }
 }
