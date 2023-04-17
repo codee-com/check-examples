@@ -1,5 +1,5 @@
-// OPP001: Multithreading Opportunity
-// https://www.codee.com/knowledge/opp001/
+// PWR050: Consider applying multithreading parallelism to forall loop
+// https://www.codee.com/knowledge/pwr050/
 // Forall pattern
 // https://www.codee.com/knowledge/patterns/forall/
 

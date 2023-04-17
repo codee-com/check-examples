@@ -1,5 +1,5 @@
-! OPP001: Multithreading Opportunity 
-! https://www.codee.com/knowledge/opp001/
+! PWR051: Consider applying multithreading parallelism to scalar reduction loop
+! https://www.codee.com/knowledge/pwr051/
 ! Scalar reduction pattern
 ! https://www.codee.com/knowledge/patterns/scalar-reduction/
 

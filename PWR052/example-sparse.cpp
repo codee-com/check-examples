@@ -1,5 +1,5 @@
-// OPP001: Multithreading Opportunity
-// https://www.codee.com/knowledge/opp001/
+// PWR052: Consider applying multithreading parallelism to sparse reduction loop
+// https://www.codee.com/knowledge/pwr052/
 // Sparse reduction pattern
 // https://www.codee.com/knowledge/patterns/sparse-reduction/
 
