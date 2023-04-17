@@ -1,5 +1,5 @@
-// OPP002: SIMD Opportunity
-// https://www.codee.com/knowledge/opp002/
+// PWR053: consider applying vectorization to forall loop
+// https://www.codee.com/knowledge/pwr053/
 // Forall pattern
 // https://www.codee.com/knowledge/patterns/forall/
 

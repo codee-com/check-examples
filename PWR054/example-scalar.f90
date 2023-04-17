@@ -1,5 +1,5 @@
-! OPP002: SIMD Opportunity 
-! https://www.codee.com/knowledge/opp002/
+! PWR054: consider applying vectorization to scalar reduction loop
+! https://www.codee.com/knowledge/pwr054/
 ! Scalar reduction pattern
 ! https://www.codee.com/knowledge/patterns/scalar-reduction/
 
