@@ -1,5 +1,5 @@
-// OPP003: Offloading Opportunity
-// https://www.codee.com/knowledge/opp003/
+// PWR056: consider applying offloading parallelism to scalar reduction loop
+// https://www.codee.com/knowledge/pwr056/
 // Scalar reduction pattern
 // https://www.codee.com/knowledge/patterns/scalar-reduction/
 

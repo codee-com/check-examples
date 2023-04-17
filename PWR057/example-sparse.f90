@@ -1,5 +1,5 @@
-! OPP003: Offloading Opportunity 
-! https://www.codee.com/knowledge/opp003/
+! PWR057: consider applying offloading parallelism to sparse reduction loop
+! https://www.codee.com/knowledge/pwr057/
 ! Sparse reduction pattern
 ! https://www.codee.com/knowledge/patterns/sparse-reduction/
 

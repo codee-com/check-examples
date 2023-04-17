@@ -1,5 +1,5 @@
-// OPP003: Offloading Opportunity
-// https://www.codee.com/knowledge/opp003/
+// PWR055: consider applying offloading parallelism to forall loop
+// https://www.codee.com/knowledge/pwr055/
 // Forall pattern
 // https://www.codee.com/knowledge/patterns/forall/
 
