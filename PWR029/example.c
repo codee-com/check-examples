@@ -1,5 +1,5 @@
 // PWR029: Remove integer increment preventing performance optimization
-// https://www.appentra.com/knowledge/checks/pwr029
+// https://www.codee.com/knowledge/checks/pwr029
 
 void example(float *a, float *b, unsigned size) {
   unsigned k = 0;

@@ -1,5 +1,5 @@
 ! PWR008: Declare the intent for each procedure parameter
-! https://www.appentra.com/knowledge/checks/pwr008
+! https://www.codee.com/knowledge/checks/pwr008
 
 SUBROUTINE example(a, b)
     IMPLICIT NONE

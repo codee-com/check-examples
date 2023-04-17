@@ -1,5 +1,5 @@
 // PWR006: Avoid privatization of read-only variables
-// https://www.appentra.com/knowledge/checks/pwr006
+// https://www.codee.com/knowledge/checks/pwr006
 
 #define SIZE 5
 

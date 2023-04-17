@@ -1,6 +1,6 @@
 ! PWD003: Copy of pointer value instead of pointed-to data
 ! to an accelerator device 
-! https://www.appentra.com/knowledge/checks/pwd003
+! https://www.codee.com/knowledge/checks/pwd003
 
 SUBROUTINE example(a, b, result, size)
     IMPLICIT NONE

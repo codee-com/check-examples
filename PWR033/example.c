@@ -1,5 +1,5 @@
 // PWR033: move invariant conditional out of the loop to avoid redundant computations
-// https://www.appentra.com/knowledge/checks/pwr033
+// https://www.codee.com/knowledge/checks/pwr033
 
 void example(int addTwo) {
  int sum = 0;

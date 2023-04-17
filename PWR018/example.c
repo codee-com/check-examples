@@ -1,5 +1,5 @@
 // PWR018: Call to recursive function within a loop may inhibit vectorization
-// https://www.appentra.com/knowledge/checks/pwr018
+// https://www.codee.com/knowledge/checks/pwr018
 
 double fib(unsigned n) {
     if (n == 0) {

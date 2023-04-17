@@ -1,5 +1,5 @@
 // PWR014: Out-of-dimension-bounds array access
-// https://www.appentra.com/knowledge/checks/pwr014
+// https://www.codee.com/knowledge/checks/pwr014
 
 void foo() {
     int A[100][100];

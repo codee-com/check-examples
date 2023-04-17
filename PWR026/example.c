@@ -1,5 +1,5 @@
 // PWR026: Annotate function for OpenMP offload
-// https://www.appentra.com/knowledge/checks/pwr026
+// https://www.codee.com/knowledge/checks/pwr026
 
 int foo(int a) { return 2 * a; }
 

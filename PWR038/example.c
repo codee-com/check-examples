@@ -1,5 +1,5 @@
 // PWR038: Apply loop sectioning to improve performance
-// https://www.appentra.com/knowledge/checks/pwr038
+// https://www.codee.com/knowledge/checks/pwr038
 
 void matvec(const double *restrict *restrict mat, const double *restrict vec,
             int rows, int cols, double *restrict result) {

@@ -1,5 +1,5 @@
 // PWR039: Consider loop interchange to improve the locality of reference and
-// enable vectorization https://www.appentra.com/knowledge/checks/pwr039
+// enable vectorization https://www.codee.com/knowledge/checks/pwr039
 
 void zero(double **A, int n) {
   for (int i = 0; i < n; i++) {

@@ -1,5 +1,5 @@
 // PWR035: Avoid non-consecutive array access to improve performance
-// https://www.appentra.com/knowledge/checks/pwr035
+// https://www.codee.com/knowledge/checks/pwr035
 
 void example(float **a, unsigned rows, unsigned cols) {
   for (unsigned i = 0; i < rows; ++i) {

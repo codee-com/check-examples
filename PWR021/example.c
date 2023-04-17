@@ -1,5 +1,5 @@
 // PWR021: temporary computation can be extracted to a vectorizable loop
-// https://www.appentra.com/knowledge/checks/pwr021
+// https://www.codee.com/knowledge/checks/pwr021
 
 int expensive_computation(int *C, int i) { return C[i] * 2; }
 

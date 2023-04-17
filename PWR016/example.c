@@ -1,5 +1,5 @@
 // PWR016: Use separate arrays instead of an Array-of-Structs
-// https://www.appentra.com/knowledge/checks/pwr016
+// https://www.codee.com/knowledge/checks/pwr016
 
 typedef struct {
     int x;

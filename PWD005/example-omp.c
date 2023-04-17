@@ -1,5 +1,5 @@
 // PWD005: Array range copied to the GPU does not cover the used range
-// https://www.appentra.com/knowledge/checks/pwd005
+// https://www.codee.com/knowledge/checks/pwd005
 
 void foo() {
     int A[100], B[100], sum[100];

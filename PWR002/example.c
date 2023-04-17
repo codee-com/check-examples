@@ -1,5 +1,5 @@
 // PWR002: Declare scalar variables in the smallest possible scope
-// https://www.appentra.com/knowledge/checks/pwr002
+// https://www.codee.com/knowledge/checks/pwr002
 
 void example(int* result, unsigned size) {
   int t;

@@ -1,5 +1,5 @@
 // PWR023: add ‘restrict’ for pointer function parameters to hint the compiler that vectorization is safe
-// https://www.appentra.com/knowledge/checks/pwr023
+// https://www.codee.com/knowledge/checks/pwr023
 
 int example(int *x, int *y) {
     int sum = 0;
