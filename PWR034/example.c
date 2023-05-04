@@ -1,5 +1,5 @@
 // PWR034: Avoid strided array access to improve performance
-// https://www.codee.com/knowledge/checks/pwr034
+// https://www.codee.com/knowledge/pwr034
 
 void example(float *a, unsigned size) {
   for (unsigned i = 0; i < size; i += 2) {

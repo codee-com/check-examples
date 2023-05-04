@@ -1,5 +1,5 @@
 // PWR032: Avoid calls to mathematical functions with higher precision than required
-// https://www.codee.com/knowledge/checks/pwr032
+// https://www.codee.com/knowledge/pwr032
 
 #include <math.h>
 

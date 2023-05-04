@@ -1,5 +1,5 @@
 // PWR010: Avoid column-major array access in C/C++
-// https://www.codee.com/knowledge/checks/pwr010
+// https://www.codee.com/knowledge/pwr010
 
 void example(int **A, int *B) {
   for (int i = 0; i < 100; ++i) {

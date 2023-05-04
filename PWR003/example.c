@@ -1,5 +1,5 @@
 // PWR003: Explicitly declare pure functions
-// https://www.codee.com/knowledge/checks/pwr003
+// https://www.codee.com/knowledge/pwr003
 
 #ifdef __GNUC__
   #define PURE __attribute__((const))

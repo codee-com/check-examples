@@ -1,5 +1,5 @@
 // PWD002: Unprotected multithreading reduction operation
-// https://www.codee.com/knowledge/checks/pwd002
+// https://www.codee.com/knowledge/pwd002
 
 void example(int * array) {
   int sum = 0;

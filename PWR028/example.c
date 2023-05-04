@@ -1,5 +1,5 @@
 // PWR028: Remove pointer increment preventing performance optimization
-// https://www.codee.com/knowledge/checks/pwr028
+// https://www.codee.com/knowledge/pwr028
 
 void example(float *a, float *b, float *c, unsigned size, unsigned inc) {
   float *bTemp1 = b;

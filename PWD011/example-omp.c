@@ -1,5 +1,5 @@
 // PWD011: Missing OpenMP lastprivate clause
-// https://www.codee.com/knowledge/checks/pwd011
+// https://www.codee.com/knowledge/pwd011
 
 double example(int m, double *A, double *B, double *C) {
   double liveOut;

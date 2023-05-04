@@ -1,5 +1,5 @@
 // PWR012: Pass only required fields from derived type as parameters
-// https://www.codee.com/knowledge/checks/pwr012
+// https://www.codee.com/knowledge/pwr012
 
 #include <stdlib.h>
 

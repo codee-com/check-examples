@@ -1,5 +1,5 @@
 // PWR004: Declare OpenMP scoping for all variables
-// https://www.codee.com/knowledge/checks/pwr004
+// https://www.codee.com/knowledge/pwr004
 
 void example(int* result, unsigned size) {
   int factor = 42;

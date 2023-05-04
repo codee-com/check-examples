@@ -1,5 +1,5 @@
 // PWR015: Avoid copying unnecessary array elements to the GPU
-// https://www.codee.com/knowledge/checks/pwr015
+// https://www.codee.com/knowledge/pwr015
 
 void foo() {
     int A[100], B[100], sum[100];

@@ -1,5 +1,5 @@
 // PWR027: Annotate function for OpenACC offload
-// https://www.codee.com/knowledge/checks/pwr027
+// https://www.codee.com/knowledge/pwr027
 
 int foo(int a) { return 2 * a; }
 

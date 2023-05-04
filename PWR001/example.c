@@ -1,5 +1,5 @@
 // PWR001: Declare global variables as function parameters
-// https://www.codee.com/knowledge/checks/pwr001
+// https://www.codee.com/knowledge/pwr001
 
 #define N 100
 int A[N];

@@ -1,5 +1,5 @@
 ! PWR005: Disable default OpenMP scoping
-! https://www.codee.com/knowledge/checks/pwr005
+! https://www.codee.com/knowledge/pwr005
 
 SUBROUTINE example(result)
     IMPLICIT NONE

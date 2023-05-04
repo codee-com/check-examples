@@ -1,5 +1,5 @@
 // PWD004: Out-of-memory-bounds array access
-// https://www.codee.com/knowledge/checks/pwd004
+// https://www.codee.com/knowledge/pwd004
 
 void foo() {
     int A[100];
