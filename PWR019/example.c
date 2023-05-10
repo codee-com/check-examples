@@ -1,4 +1,4 @@
-// PWR019: Consider interchanging loops to favor vectorization by maximizin inner loop’s trip
+// PWR019: Consider interchanging loops to favor vectorization by maximizing inner loop's trip count
 // https://www.codee.com/knowledge/pwr019
 
 void example(int **A) {
