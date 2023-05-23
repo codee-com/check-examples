@@ -10,11 +10,11 @@ end function expensive_computation
 
 subroutine example()
     implicit none
-    integer :: a(1000), c(1000), i, b, expensive_computation
+    integer :: a(1000), c(1000), i, t, expensive_computation
 
     do i = 1, 1000
-        b = expensive_computation(c, i)
-        a(c(i)) = b
+        t = expensive_computation(c, i)
+        a(c(i)) = t
     end do
 
 end subroutine
