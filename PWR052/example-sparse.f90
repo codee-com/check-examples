@@ -1,7 +1,7 @@
 ! PWR052: Consider applying multithreading parallelism to sparse reduction loop
-! https://www.codee.com/knowledge/pwr052/
+! https://www.codee.com/catalog/pwr052/
 ! Sparse reduction pattern
-! https://www.codee.com/knowledge/patterns/sparse-reduction/
+! https://www.codee.com/catalog/patterns/sparse-reduction/
 
 SUBROUTINE example(A, nodes1, nodes2, nodes3, n)
     integer, intent(in) :: n

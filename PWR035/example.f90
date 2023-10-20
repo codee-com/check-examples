@@ -1,5 +1,5 @@
 ! PWR035: Avoid non-consecutive array access to improve performance
-! https://www.codee.com/knowledge/pwr035
+! https://www.codee.com/catalog/pwr035
 
 subroutine example()
     implicit none

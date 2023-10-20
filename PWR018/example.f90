@@ -1,5 +1,5 @@
 ! PWR018: Call to recursive function within a loop may inhibit vectorization
-! https://www.codee.com/knowledge/pwr018
+! https://www.codee.com/catalog/pwr018
 
 recursive function fibonacci(n) result(fibo)
     implicit none

@@ -1,5 +1,5 @@
 ! PWR013: Avoid copying unused variables to the GPU
-! https://www.codee.com/knowledge/pwr013
+! https://www.codee.com/catalog/pwr013
 
 subroutine example(a, b, c)
     integer, intent(inout) :: a(100), b(100), c(100)

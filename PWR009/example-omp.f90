@@ -1,5 +1,5 @@
 ! PWR009: Use OpenMP teams to offload work to GPU
-! https://www.codee.com/knowledge/pwr009
+! https://www.codee.com/catalog/pwr009
 
 subroutine bar()
     real, dimension(100,200) :: y

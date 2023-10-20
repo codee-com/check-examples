@@ -1,5 +1,5 @@
 // PWR009: Use OpenMP teams to offload work to GPU
-// https://www.codee.com/knowledge/pwr009
+// https://www.codee.com/catalog/pwr009
 
 void example(double (*A)[100], double (*B)[100], double (*C)[100]) {
   #pragma omp target map(to: A[0:100][0:100], B[0:100][0:100]) map(tofrom: C[0:100][0:100])

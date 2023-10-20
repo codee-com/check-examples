@@ -1,5 +1,5 @@
 ! PWR036: Avoid indirect array access to improve performance
-! https://www.codee.com/knowledge/pwr036
+! https://www.codee.com/catalog/pwr036
 
 subroutine example()
   implicit none

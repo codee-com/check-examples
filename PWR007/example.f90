@@ -1,5 +1,5 @@
 ! PWR007: Disable implicit declaration of variables
-! https://www.codee.com/knowledge/pwr007
+! https://www.codee.com/catalog/pwr007
 
 SUBROUTINE example
     NUM1 = 7

@@ -1,5 +1,5 @@
 // PWR049: Move iterator-dependent condition outside of the loop
-// https://www.codee.com/knowledge/pwr049
+// https://www.codee.com/catalog/pwr049
 
 void example(int **a, int **b, int n) {
   for (int i = 0; i < n; ++i) {

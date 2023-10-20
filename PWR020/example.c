@@ -1,5 +1,5 @@
 // PWR020: consider loop fission to enable vectorization
-// https://www.codee.com/knowledge/pwr020
+// https://www.codee.com/catalog/pwr020
 
 void example() {
     int A[1000], B[1000], C[1000];

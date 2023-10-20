@@ -1,7 +1,7 @@
 // PWR054: consider applying vectorization to scalar reduction loop
-// https://www.codee.com/knowledge/pwr054/
+// https://www.codee.com/catalog/pwr054/
 // Scalar reduction pattern
-// https://www.codee.com/knowledge/patterns/scalar-reduction/
+// https://www.codee.com/catalog/patterns/scalar-reduction/
 
 #include <iostream>
 

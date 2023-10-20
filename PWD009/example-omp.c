@@ -1,5 +1,5 @@
 // PWD009: Incorrect privatization in parallel region
-// https://www.codee.com/knowledge/pwd009
+// https://www.codee.com/catalog/pwd009
 
 void example(int m, double *A, double *B, double *C) {
   double temp;

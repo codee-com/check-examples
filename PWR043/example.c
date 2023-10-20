@@ -1,6 +1,6 @@
 // PWR043: Loop nest can benefit from loop interchange, but reduction variable
 // initialization prevents loop interchange
-// https://www.codee.com/knowledge/pwr043
+// https://www.codee.com/catalog/pwr043
 
 void loopInterchange(int n, double **A, double *B) {
   for (int i = 0; i < n; i++) {

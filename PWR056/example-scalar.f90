@@ -1,7 +1,7 @@
 ! PWR056: consider applying offloading parallelism to scalar reduction loop
-! https://www.codee.com/knowledge/pwr056/
+! https://www.codee.com/catalog/pwr056/
 ! Scalar reduction pattern
-! https://www.codee.com/knowledge/patterns/scalar-reduction/
+! https://www.codee.com/catalog/patterns/scalar-reduction/
 
 SUBROUTINE example(A, n, sum)
     integer, intent(in) :: n

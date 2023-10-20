@@ -1,5 +1,5 @@
 // PWR013: Avoid copying unused variables to the GPU
-// https://www.codee.com/knowledge/pwr013
+// https://www.codee.com/catalog/pwr013
 
 void example(double *A, double *B, double *C) {
    #pragma omp target teams distribute parallel for schedule(auto) \

@@ -1,5 +1,5 @@
 ! PWR029: Remove integer increment preventing performance optimization
-! https://www.codee.com/knowledge/pwr029
+! https://www.codee.com/catalog/pwr029
 
 subroutine example()
     implicit none

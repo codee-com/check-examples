@@ -1,7 +1,7 @@
 ! PWR050: Consider applying multithreading parallelism to forall loop
-! https://www.codee.com/knowledge/pwr050/
+! https://www.codee.com/catalog/pwr050/
 ! Forall pattern
-! https://www.codee.com/knowledge/patterns/forall/
+! https://www.codee.com/catalog/patterns/forall/
 
 SUBROUTINE example(D, X, Y, n, a)
     integer, intent(in) :: n

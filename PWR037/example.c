@@ -1,5 +1,5 @@
 // PWR037: Potential precision loss in call to mathematical function
-// https://www.codee.com/knowledge/pwr037
+// https://www.codee.com/catalog/pwr037
 
 #include <math.h>
 

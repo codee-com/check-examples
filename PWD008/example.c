@@ -1,6 +1,6 @@
 // PWD008: Unprotected multithreading recurrence due to
 // out-of-dimension-bounds array access
-// https://www.codee.com/knowledge/pwd008
+// https://www.codee.com/catalog/pwd008
 
 void foo() {
     int A[5][5];

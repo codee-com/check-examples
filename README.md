@@ -1,6 +1,6 @@
 # Best practices rules for performance - Code examples
 
-In this repository you will find code examples for best practices on performance, which you can find in our open catalog: https://www.codee.com/knowledge/ 
+In this repository you will find code examples for best practices on performance, which you can find in our open catalog: https://www.codee.com/catalog/
 
 In this catalog you can see different types of actions:
 

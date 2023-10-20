@@ -1,5 +1,5 @@
 // PWD007: Unprotected multithreading recurrence
-// https://www.codee.com/knowledge/pwd007
+// https://www.codee.com/catalog/pwd007
 
 void foo() {
     int x[5], y[5];

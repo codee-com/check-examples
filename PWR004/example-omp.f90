@@ -1,5 +1,5 @@
 ! PWR004: Declare OpenMP scoping for all variables
-! https://www.codee.com/knowledge/pwr004
+! https://www.codee.com/catalog/pwr004
 
 SUBROUTINE example(result)
     IMPLICIT NONE

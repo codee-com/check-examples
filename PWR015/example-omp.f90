@@ -1,5 +1,5 @@
 ! PWR015: Avoid copying unnecessary array elements to the GPU
-! https://www.codee.com/knowledge/pwr015
+! https://www.codee.com/catalog/pwr015
 
 subroutine example(a, c)
     integer, intent(inout) :: a(100), c(100)

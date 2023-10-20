@@ -1,5 +1,5 @@
 ! PWR021: temporary computation can be extracted to a vectorizable loop
-! https://www.codee.com/knowledge/pwr021
+! https://www.codee.com/catalog/pwr021
 
 integer function expensive_computation(c, i)
     implicit none

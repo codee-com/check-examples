@@ -1,5 +1,5 @@
 ! PWR049: Move iterator-dependent condition outside of the loop
-! https://www.codee.com/knowledge/pwr049
+! https://www.codee.com/catalog/pwr049
 
 subroutine example(n)
     implicit none

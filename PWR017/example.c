@@ -1,5 +1,5 @@
 // PWR017: Using while loops instead of for loops may inhibit vectorization
-// https://www.codee.com/knowledge/pwr017
+// https://www.codee.com/catalog/pwr017
 
 int example(int *A) {
   int sum = 0;

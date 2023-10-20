@@ -1,6 +1,6 @@
 ! PWR039: Consider loop interchange to improve the locality of reference and
 ! enable vectorization
-! https://www.codee.com/knowledge/pwr039
+! https://www.codee.com/catalog/pwr039
 
 subroutine loop_interchange(aa, LEN_2D)
     integer, intent(in) :: LEN_2D

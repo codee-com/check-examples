@@ -1,5 +1,5 @@
 ! PWR034: Avoid strided array access to improve performance
-! https://www.codee.com/knowledge/pwr034
+! https://www.codee.com/catalog/pwr034
 
 subroutine example()
     implicit none

@@ -1,5 +1,5 @@
 // PWD010: Incorrect sharing in parallel region
-// https://www.codee.com/knowledge/pwd010
+// https://www.codee.com/catalog/pwd010
 
 void example(int **result, unsigned rows, unsigned cols) {
   int i, j;

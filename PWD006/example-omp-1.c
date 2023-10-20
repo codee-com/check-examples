@@ -1,5 +1,5 @@
 // PWD006: Missing deep copy of non-contiguous data to the GPU
-// https://www.codee.com/knowledge/pwd006
+// https://www.codee.com/catalog/pwd006
 
 #include <stdlib.h>
 

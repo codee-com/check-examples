@@ -1,5 +1,5 @@
 !PWR060 : consider loop fission to separate gather memory access pattern
-!https  : // www.codee.com/knowledge/pwr060
+!https  : // www.codee.com/catalog/pwr060
 
 subroutine example(a, D, X, Y, index, n)
     implicit none

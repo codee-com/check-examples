@@ -1,5 +1,5 @@
 ! PWR040: Consider loop tiling to improve the locality of reference
-! https://www.codee.com/knowledge/pwr040
+! https://www.codee.com/catalog/pwr040
 
 subroutine copy(a, b, LEN_2D)
     integer, intent(in) :: LEN_2D

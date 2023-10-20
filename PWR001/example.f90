@@ -1,5 +1,5 @@
 ! PWR001: Declare global variables as function parameters
-! https://www.codee.com/knowledge/pwr001
+! https://www.codee.com/catalog/pwr001
 MODULE globalsMod
 REAL global_a
 END MODULE globalsMod

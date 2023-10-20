@@ -1,5 +1,5 @@
 ! PWR012: Pass only required fields from derived type as parameters
-! https://www.codee.com/knowledge/pwr012
+! https://www.codee.com/catalog/pwr012
 
 program x
 

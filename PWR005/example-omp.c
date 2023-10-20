@@ -1,5 +1,5 @@
 // PWR005: Disable default OpenMP scoping
-// https://www.codee.com/knowledge/pwr005
+// https://www.codee.com/catalog/pwr005
 
 void example(int* result, unsigned size) {
   // Default data scoping is used which may not be correct

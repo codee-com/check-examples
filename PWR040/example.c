@@ -1,5 +1,5 @@
 // PWR040: Consider loop tiling to improve the locality of reference
-// https://www.codee.com/knowledge/pwr040
+// https://www.codee.com/catalog/pwr040
 
 void copy(double **A, double **B, int n) {
   for (int i = 0; i < n; i++) {

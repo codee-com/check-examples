@@ -1,6 +1,6 @@
 // PWD003: Copy of pointer value instead of pointed-to data
 // to an accelerator device
-// https://www.codee.com/knowledge/pwd003
+// https://www.codee.com/catalog/pwd003
 
 void example_acc(int* a, int* b, int* sum, int size) {
   // Array bounds should be specified

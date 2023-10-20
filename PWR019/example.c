@@ -1,5 +1,5 @@
 // PWR019: Consider interchanging loops to favor vectorization by maximizing inner loop's trip count
-// https://www.codee.com/knowledge/pwr019
+// https://www.codee.com/catalog/pwr019
 
 void example(int **A) {
     for (int i = 0; i < 300; i++) {

@@ -1,7 +1,7 @@
 // PWR051: Consider applying multithreading parallelism to scalar reduction loop
-// https://www.codee.com/knowledge/pwr051/
+// https://www.codee.com/catalog/pwr051/
 // Scalar reduction pattern
-// https://www.codee.com/knowledge/patterns/scalar-reduction/
+// https://www.codee.com/catalog/patterns/scalar-reduction/
 
 #include <stdio.h>
 

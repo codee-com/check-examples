@@ -1,5 +1,5 @@
 // PWR022: move invariant conditional out of the loop to facilitate vectorization
-// https://www.codee.com/knowledge/pwr022
+// https://www.codee.com/catalog/pwr022
 
 int example(int *A, int n) {
     int total = 0;

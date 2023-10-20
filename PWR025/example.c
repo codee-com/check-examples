@@ -1,5 +1,5 @@
 // PWR025: consider annotating pure function with OpenMP ‘declare simd’
-// https://www.codee.com/knowledge/pwr025
+// https://www.codee.com/catalog/pwr025
 
 int foo(int a) { return 2 * a; }
 

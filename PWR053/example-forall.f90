@@ -1,7 +1,7 @@
 ! PWR053: consider applying vectorization to forall loop
-! https://www.codee.com/knowledge/pwr053/
+! https://www.codee.com/catalog/pwr053/
 ! Forall pattern
-! https://www.codee.com/knowledge/patterns/forall/
+! https://www.codee.com/catalog/patterns/forall/
 
 SUBROUTINE example(D, X, Y, n, a)
     integer, intent(in) :: n

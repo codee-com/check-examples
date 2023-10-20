@@ -1,5 +1,5 @@
 // PWR031: Replace call to pow by multiplication, division and/or square root
-// https://www.codee.com/knowledge/pwr031
+// https://www.codee.com/catalog/pwr031
 
 #include <math.h>
 

@@ -1,5 +1,5 @@
 ! PWR016: Use separate arrays instead of an Array-of-Structs
-! https://www.codee.com/knowledge/pwr016
+! https://www.codee.com/catalog/pwr016
 
 program main
 
