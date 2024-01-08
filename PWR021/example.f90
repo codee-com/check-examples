@@ -14,7 +14,7 @@ subroutine example()
 
     do i = 1, 1000
         t = expensive_computation(c, i)
-        a(c(i)) = t
+        a(c(i)) = a(c(i)) + t
     end do
 
 end subroutine
